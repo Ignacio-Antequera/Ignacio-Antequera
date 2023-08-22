@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Ignacio Antequera Sanchez
 
 ## About Me
-I'm an international student-athlete on a journey to blend the worlds of mathematics and computer science. Currently pursuing dual bachelor's degrees in Mathematics and Computer Science, my passion lies in the realms of AI, machine learning, data engineering, and software development.
+I'm an international student-athlete on a journey to blend the worlds of mathematics and computer science. Currently pursuing a dual bachelor's degree in Mathematics and Computer Science, my passion lies in the realms of AI, machine learning, data engineering, and software development.
 
 ## 🚀 My Goals
 - 🌟 To innovate, create, and bring ideas to life through code.
