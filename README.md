@@ -40,7 +40,7 @@ Continuously updating my knowledge base:
 
 ## 🎯 Projects
 Here are some of my noteworthy projects:
-- [SPAM Classification - Advanced ML & DL](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL): Advanced Machine & Deep Learning for SPAM classification.
+- [SPAM Classification - Advanced ML & DL](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL) : Advanced Machine & Deep Learning for SPAM classification.
 
 Feel free to explore more on [my GitHub](https://github.com/ignacio-antequera).
 
