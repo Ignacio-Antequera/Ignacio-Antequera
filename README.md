@@ -35,17 +35,20 @@ Continuously updating my knowledge base:
 - 🤖 Advanced machine learning and deep learning algorithms.
 - 🧰 Cloud computing with AWS/Azure/GCP.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignacio-antequera&show_icons=true&locale=en&layout=compact" alt="ignacio-antequera" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignacio-antequera&show_icons=true&locale=en" alt="ignacio-antequera" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio-antequera&" alt="ignacio-antequera" /></p>
-
 ## 🎯 Projects
 Here are some of my noteworthy projects:
 - [SPAM Classification - Advanced ML & DL](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL) : Advanced Machine & Deep Learning for SPAM classification.
 - [Advanced Machine Learning for Marketing Analysis](https://github.com/Ignacio-Antequera/Marketing-Analysis---Advanced-ML) : Advanced Machine Learning for Marketing Analysis.
 - [Store Item Demand Forecasting](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL): Deep Learning with XGBoost.
+
+## 📚 Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignacio-antequera&show_icons=true&locale=en&layout=compact" alt="ignacio-antequera" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacio-antequera&" alt="ignacio-antequera" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignacio-antequera&show_icons=true&locale=en" alt="ignacio-antequera" /></p>
+
 
 Feel free to explore more on [my GitHub](https://github.com/ignacio-antequera).
 
