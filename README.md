@@ -50,9 +50,6 @@ Here are some of my noteworthy projects:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignacio-antequera&show_icons=true&locale=en" alt="ignacio-antequera" /></p>
 
-
-Feel free to explore more on [my GitHub](https://github.com/ignacio-antequera).
-
 ## 📬 Let's Connect
 I'm always excited to collaborate, learn, and grow. Feel free to reach out to me and let's discuss how we can change the world together through code and innovation.
 
