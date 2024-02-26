@@ -53,7 +53,4 @@ Here are some of my noteworthy projects:
 
 ## 📬 Let's Connect
 I'm always excited to collaborate, learn, and grow. Feel free to reach out to me and let's discuss how we can change the world together through code and innovation.
-
-https://www.youtube.com/watch?v=kqS8ss-OQzI
-
 ---
