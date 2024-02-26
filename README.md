@@ -54,16 +54,6 @@ Here are some of my noteworthy projects:
 ## 📬 Let's Connect
 I'm always excited to collaborate, learn, and grow. Feel free to reach out to me and let's discuss how we can change the world together through code and innovation.
 
-
-
-VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED).
-
-
-Result Code: 
-NS_ERROR_FAILURE (0x80004005)
-Component: 
-ConsoleWrap
-Interface: 
-IConsole {872da645-4a9b-1727-bee2-5585105b9eed}
+https://www.youtube.com/watch?v=kqS8ss-OQzI
 
 ---
