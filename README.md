@@ -59,5 +59,6 @@ Kindly find my contact details listed below for your convenience. Your input is 
 
 [LinkedIn](https://www.linkedin.com/in/ignacio-antequera)  ||  [GitHub](https://github.com/Ignacio-Antequera)  ||  [Leetcode](https://leetcode.com/Ignacio_antequera)
 
-<p align="center"> Ignacio Antequera Sanchez </p>
 ---
+
+<p align="center"> Ignacio Antequera Sanchez </p>
