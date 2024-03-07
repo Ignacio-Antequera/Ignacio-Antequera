@@ -39,6 +39,7 @@ Continuously updating my knowledge base:
 ## 🎯 Projects
 Here are some of my noteworthy projects:
 - [SPAM Classification - Advanced ML & DL](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL) : Advanced Machine & Deep Learning for SPAM classification.
+- [Stock Price Predictions with LSTMs and Averaging Techniques]([https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL](https://github.com/Ignacio-Antequera/Stock-Market-Predictions-with-LSTM-Neural-Networks)): LSTM - Time Series Predictive Models.
 - [Automated Stock Trading System using Reinforcement Learning](https://github.com/Ignacio-Antequera/Reinforcement-Learning---Trading) : Reinforcement Learning for Stock Trading.
 - [Store Item Demand Forecasting](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL): Deep Learning with XGBoost.
 - [Advanced Machine Learning for Marketing Analysis](https://github.com/Ignacio-Antequera/Marketing-Analysis---Advanced-ML) : Advanced Machine Learning for Marketing Analysis.
