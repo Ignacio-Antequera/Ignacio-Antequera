@@ -57,7 +57,7 @@ I'm always excited to collaborate, learn, and grow. Feel free to reach out to me
 
 Kindly find my contact details listed below for your convenience. Your input is greatly appreciated.
 
-<center> [LinkedIn](https://www.linkedin.com/in/ignacio-antequera)  ||  [GitHub](https://github.com/Ignacio-Antequera)  ||  [Leetcode](https://leetcode.com/Ignacio_antequera) </center>
+[LinkedIn](https://www.linkedin.com/in/ignacio-antequera)  ||  [GitHub](https://github.com/Ignacio-Antequera)  ||  [Leetcode](https://leetcode.com/Ignacio_antequera)
 
 <p align="center"> Ignacio Antequera Sanchez </p>
 ---
