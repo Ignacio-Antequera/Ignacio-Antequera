@@ -55,4 +55,12 @@ Here are some of my noteworthy projects:
 ## 📬 Let's Connect
 I'm always excited to collaborate, learn, and grow. Feel free to reach out to me and let's discuss how we can change the world together through code and innovation.
 
+Kindly find my contact details listed below for your convenience. Your input is greatly appreciated.
+
+Ignacio Antequera Sanchez
+
+***
+
+[LinkedIn](https://www.linkedin.com/in/ignacio-antequera)  ||  [GitHub](https://github.com/Ignacio-Antequera)  ||  [Leetcode](https://leetcode.com/Ignacio_antequera)
+
 ---
