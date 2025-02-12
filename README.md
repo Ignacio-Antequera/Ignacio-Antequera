@@ -50,8 +50,6 @@ Here are some of my noteworthy projects:
 
 ## 📚 Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignacio-antequera&show_icons=true&locale=en&layout=compact" alt="ignacio-antequera" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignacio-antequera&show_icons=true&locale=en" alt="ignacio-antequera" /></p>
 
 ## 📬 Let's Connect
