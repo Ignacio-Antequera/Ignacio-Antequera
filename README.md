@@ -21,24 +21,10 @@ I'm well-versed in a range of programming languages, tools, and frameworks inclu
 
 And I'm actively exploring more!
 
-## 🌐 Connect with Me
-Let's connect and discuss tech, sports, or anything under the sun:
-<p align="left">
-<a href="https://linkedin.com/in/ignacio-antequera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-antequera" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ignacio_antequera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ignacio_antequera" height="30" width="40" /></a>
-<a href="https://ignacio-antequera.netlify.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4117/4117111.png" alt="ignacio-antequera" height="30" width="40" /></a>
-</p>
-
 ## 🏆 Achievements
 - 🏅 Represented St. John's University in Soccer.
 - 🎓 Maintaining a solid GPA above 3.9 while pursuing a dual degree.
 - 🏆 Awarded Dean’s List 2021-2022 | Big East All-Academic Team 2021-2022 | Dr. Edward J. Miranda Memorial Award | Certificate of Scholastic Excellence
-
-## 📚 Currently Learning
-Continuously updating my knowledge base:
-- 📊 Data engineering techniques and best practices.
-- 🤖 Advanced machine learning and deep learning algorithms.
-- 🧰 Cloud computing with AWS/Azure/GCP.
 
 ## 🎯 Projects
 Here are some of my noteworthy projects:
