@@ -2,7 +2,10 @@
 # Hi there! 👋 I'm Ignacio Antequera Sanchez
 
 ## About Me
-I'm an AI Research Scientist. Recently graduated from college with a dual bachelor's degree in Mathematics and Computer Science and currently pursuing Master's degree in Data Science & Computer Engineering. 
+AI Research Scientist at DaSCI (Andalusian Institute in Artificial Intelligence) 
+
+- Bachelor's degree in Mathematics and Computer Science
+- Master's degree in Data Science & Computer Engineering
 
 My passion lies in the realms of AI, machine learning, data engineering, and software development.
 
