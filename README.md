@@ -19,22 +19,10 @@ I'm well-versed in a range of programming languages, tools, and frameworks, incl
 And I'm actively exploring more!
 
 ## 🏆 Achievements
-- 🏅 I studied for five years in New York, United States, where I earned a double major in Mathematics and Computer Science while competing as a student-athlete on the St. John's soccer team.
+- 🏅 I studied for five years in New York City, United States, where I earned a double major in Mathematics and Computer Science while competing as a student-athlete on the St. John's soccer team.
 - 🎓 Awarded Dean’s List 2021-2022 | Big East All-Academic Team 2021-2022 | Dr. Edward J. Miranda Memorial Award | Certificate of Scholastic Excellence
 
-## 🎯 Projects
-Here are some of my noteworthy projects:
-- [SPAM Classification - Advanced ML & DL](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL) : Advanced Machine & Deep Learning for SPAM classification.
-- [Stock Price Predictions with LSTMs and Averaging Techniques](https://github.com/Ignacio-Antequera/Stock-Market-Predictions-with-LSTM-Neural-Networks) : LSTM - Time Series Predictive Models.
-- [Automated Stock Trading System using Reinforcement Learning](https://github.com/Ignacio-Antequera/Reinforcement-Learning---Trading) : Reinforcement Learning for Stock Trading.
-- [Store Item Demand Forecasting](https://github.com/Ignacio-Antequera/SPAM_Classification_ML-DL) : Deep Learning with XGBoost.
-- [Advanced Machine Learning for Marketing Analysis](https://github.com/Ignacio-Antequera/Marketing-Analysis---Advanced-ML) : Advanced Machine Learning for Marketing Analysis.
-
-## 📚 Stats
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignacio-antequera&show_icons=true&locale=en" alt="ignacio-antequera" /></p>
-
-## 📬 Let's Connect
+📬 Let's Connect
 I'm always excited to collaborate, learn, and grow. Feel free to contact me!
 
 [LinkedIn](https://www.linkedin.com/in/ignacio-antequera)  ||  [GitHub](https://github.com/Ignacio-Antequera)  ||  [Leetcode](https://leetcode.com/Ignacio_antequera)
