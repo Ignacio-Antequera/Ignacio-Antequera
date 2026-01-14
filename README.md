@@ -19,8 +19,11 @@ I'm well-versed in a range of programming languages, tools, and frameworks, incl
 And I'm actively exploring more!
 
 ## 🏆 Achievements
-- 🏅 I studied for five years in New York City, United States, where I earned a double major in Mathematics and Computer Science while competing as a student-athlete on the St. John's soccer team.
+- 🏅 I studied for five years in New York City where I earned a double degree in Mathematics and Computer Science while competing as a student-athlete on the St. John's soccer team.
 - 🎓 Awarded Dean’s List 2021-2022 | Big East All-Academic Team 2021-2022 | Dr. Edward J. Miranda Memorial Award | Certificate of Scholastic Excellence
+- 🎓 Matrícula de Honor – Master’s Thesis:
+
+Awarded the highest distinction, Matrícula de Honor, for the Master’s Thesis titled “Out-of-Distribution Detection in Monument Classification Through Nested Dichotomies”, by unanimous decision of the Academic Committee in the Master’s in Data Science and Computer Engineering program.
 
 📬 Let's Connect
 I'm always excited to collaborate, learn, and grow. Feel free to contact me!
