@@ -29,7 +29,6 @@ I'm well-versed in a range of programming languages, tools, and frameworks, incl
 <a href="https://cloud.google.com" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/></a>
-<a href="https://isocpp.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/></a>
 <a href="https://www.r-project.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40"/></a>
 
 <br clear="both"/>
