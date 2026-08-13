@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Ignacio Antequera Sanchez
 
 ## About Me
-AI Research Scientist at DaSCI (Andalusian Institute in Artificial Intelligence) 
+AI Enigineer at Civica Software
 
 - Bachelor's degree in Mathematics and Computer Science
 - Master's degree in Data Science & Computer Engineering
