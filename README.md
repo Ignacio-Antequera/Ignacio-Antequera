@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Ignacio Antequera Sanchez
 
 ## About Me
-AI Enigineer at Civica Software
+AI Engineer at Cívica Software
 
 - Bachelor's degree in Mathematics and Computer Science
 - Master's degree in Data Science & Computer Engineering
