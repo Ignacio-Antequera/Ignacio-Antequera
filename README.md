@@ -36,6 +36,9 @@ And I'm actively exploring more!
 
 ## 🏆 Achievements
 - 🏅 I studied for five years in New York City where I earned a double degree in Mathematics and Computer Science while competing as a student-athlete on the St. John's soccer team.
+- Silver Medalist🥈 at the 2025 European University Football Championship (Camerino, Italy), representing the University of Granada and contributing to a historic runner-up finish for the institution.
+- Bronze Medalist🥉 at the 2025 FISU University World Cup – Football (Dalian, China), proudly representing the University of Granada on the global stage and helping secure a podium finish among the world’s top university teams.
+
 - 🎓 Awarded Dean’s List 2021-2022 | Big East All-Academic Team 2021-2022 | Dr. Edward J. Miranda Memorial Award | Certificate of Scholastic Excellence
 - 🎓 Matrícula de Honor – Master’s Thesis:
 
